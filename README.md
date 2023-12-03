@@ -138,7 +138,7 @@ This section allows users to sign up for email notifications about their upcomin
 
 ## Sitemap
 
-![Sitemap](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/07ed267cdb0bf01a2ddbd2a936b575786fe6b215/picture/351465733_195953266753672_4999565254009737823_n.png)
+![Sitemap](https://github.com/Zanef08/lnk_rental/blob/main/picture/351465733_195953266753672_4999565254009737823_n.png)
 
 ## GUIs
 
@@ -146,68 +146,66 @@ This section allows users to sign up for email notifications about their upcomin
 
 - Home Page
 
-![Home](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/homepage.png)
+![Home](https://github.com/Zanef08/lnk_rental/blob/main/picture/homepage.png)
 
 - Introduction / News
 
-![Detail](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/acfb54d0234dcbc8714ae227adc1819ab287e19e/picture/userdetail.png)
+![Detail](https://github.com/Zanef08/lnk_rental/blob/main/picture/userdetail.png)
 
 - Login / Register
 
-![Login](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Login.png)
-![Register](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Login_register.png)
+![Login](https://github.com/Zanef08/lnk_rental/blob/main/picture/Login.png)
+![Register](https://github.com/Zanef08/lnk_rental/blob/main/picture/Login_register.png)
 
 - Product
 
-![Product](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Product.png)
+![Product](https://github.com/Zanef08/lnk_rental/blob/main/picture/Product.png)
 
 - Search
 
-![Search](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Search.png)
+![Search](https://github.com/Zanef08/lnk_rental/blob/main/picture/Search.png)
 
 - Discount and Coupon
 
-![Discount](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/discount.png)
+![Discount](https://github.com/Zanef08/lnk_rental/blob/main/picture/discount.png)
 
 - Booking
 
-![Booking](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/Booking.png)
-![Booking](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/Booking2.png)
+![Booking](https://github.com/Zanef08/lnk_rental/blob/main/picture/Booking.png)
+![Booking](https://github.com/Zanef08/lnk_rental/blob/main/picture/Booking2.png)
 
 - Profile
 
-![Profile](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/Profile.png)
+![Profile](https://github.com/Zanef08/lnk_rental/blob/main/picture/Profile.png)
 
 
 ## landlord
 
 - News
   
-![Detail](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/lesor_detail.png)
+![Detail](https://github.com/Zanef08/lnk_rental/blob/main/picture/lesor_detail.png)
 
 - Login / Register
 
-![Login](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Login.png)
-![Register](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/18ea446b6d19e60ab45556cd6d93b849d4695075/picture/Login_register.png)
+![Login](https://github.com/Zanef08/lnk_rental/blob/main/picture/Login.png)
+![Register](https://github.com/Zanef08/lnk_rental/blob/main/picture/Login_register.png)
 
 - Profile
 
-![Profile](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/Profile.png)
+![Profile](https://github.com/Zanef08/lnk_rental/blob/main/picture/Profile.png)
 
 - Post
 
-![NewPost](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/newpost.png)
-![ViewPost](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/ca7688aa6af51cd0251b504569cbdceeec511c37/picture/viewpost.png)
+![NewPost](https://github.com/Zanef08/lnk_rental/blob/main/picture/newpost.png)
+![ViewPost](https://github.com/Zanef08/lnk_rental/blob/main/picture/viewpost.png)
 
 ## Admin
 
 - Admin Controller
 
-![Controller](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/4db75b62ea80c57b26ee5557ad499fffaeba9452/picture/Screenshot%202023-06-17%20234625.png)
-![Controller](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/4db75b62ea80c57b26ee5557ad499fffaeba9452/picture/Screenshot%202023-06-17%20234701.png)
+![Controller](https://github.com/Zanef08/lnk_rental/blob/main/picture/Screenshot%202023-06-17%20234625.png)
+![Controller](https://github.com/Zanef08/lnk_rental/blob/main/picture/Screenshot%202023-06-17%20234701.png)
 
-- ERD
-![ERD](https://github.com/dunghuynh-teaching/prj301-se1726-04/blob/07ed267cdb0bf01a2ddbd2a936b575786fe6b215/picture/351495718_295714246141422_416069424037673369_n.png)
 
 
 ## CONCLUSION & DISCUSSION
